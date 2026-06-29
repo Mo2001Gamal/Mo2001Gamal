@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Gamal 👋
 
-<!--
-**Mo2001Gamal/Mo2001Gamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into clean and interactive user interfaces while continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS
+- Git & GitHub
+- REST APIs
+
+## 📌 Featured Projects
+
+- 🌐 Portfolio Website
+- 🛒 E-commerce UI
+- ✅ To-Do List
+- 🌦️ Weather App
+- 📚 Book Management API
+- 🛠️ DNS DevTools Assignment
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- React
+- API Integration
+- AI & FastAPI
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/mohamed-gamal-690b21325
+- GitHub: https://github.com/Mo2001Gamal
+
+---
+
+⭐ Thanks for visiting my profile!
